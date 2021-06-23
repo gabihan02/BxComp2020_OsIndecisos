@@ -4,9 +4,9 @@ Resoluções de desafios de programação que foram resolvidas pelo grupo Os Ind
 O BxComp é um campeonato com desafios de programação para os Bixos de Sistemas de Informações da EACH-USP organizada pelos integrantes do PET-SI.
 
 Membros do grupo:
-Aline Sayuri Murai
-Artur Cupelli
-Davidson Nilson
+Aline Sayuri Murai,
+Artur Cupelli,
+Davidson Nilson e 
 Gabriela Jie Han
 
 Para encontrar os enunciados dos desafios de cada uma das 7 etapas acesse o link a seguir:
